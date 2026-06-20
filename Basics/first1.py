@@ -1,4 +1,5 @@
-name = input("enter your name ")
-favColor =  input("enter your fav color ")
 
-print("Hello " + name + " Your fav color is " + favColor)
+def namefunction(name,favColor):
+    print("Hello " + name + " Your fav color is " + favColor)
+
+namefunction("bob","blue")
