@@ -1,3 +1,5 @@
+##  useless functions
+
 #Problem: Write a function to calculate and return the square of a number.
 # def squarfun(n):
 #     print(f'The square for the {n} is {n*n}')
