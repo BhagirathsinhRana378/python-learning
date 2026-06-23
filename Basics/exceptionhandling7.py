@@ -9,4 +9,7 @@ except ValueError:
 except ZeroDivisionError:
     print('unable to divide with zero')
 
-    #we can you multiple except block to catch the error
+# shorter and easier and better syntax
+with open('youtube. txt', 'w') as file:
+    file.write('chai aur python')
+#we can you multiple except block to catch the error
